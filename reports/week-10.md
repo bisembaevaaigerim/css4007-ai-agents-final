@@ -10,9 +10,9 @@ Wrote the project proposal in reports/proposal.md: problem, users, functions, fo
 
 ## Important Commits
 
-Commit hash: (add after my first push)
-Description: Add project proposal and week 10 report
-Link: (add the GitHub commit link)
+Commit hash: 78592be8d076ed651eed733b9af2109a04ea4fea
+Description: Add StartScore proposal and week 10 report
+Link: https://github.com/bisembaevaaigerim/css4007-ai-agents-final/commit/78592be8d076ed651eed733b9af2109a04ea4fea
 
 ## Current Functionality
 
