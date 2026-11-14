@@ -1,0 +1,1 @@
+"""StartScore: an LLM agent that evaluates technology startups with tools."""
