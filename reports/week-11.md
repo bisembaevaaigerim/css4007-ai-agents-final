@@ -11,17 +11,17 @@
 
 ## Important Commits
 
-- Commit hash: (add after push)
+- Commit hash: 2e45ed6
 - Description: Set up Python project and configuration
-- Link: (add the GitHub commit link)
+- Link: https://github.com/bisembaevaaigerim/css4007-ai-agents-final/commit/2e45ed6
 
-- Commit hash: (add after push)
+- Commit hash: 71455e7
 - Description: Add LLM client with retries and a command line request
-- Link: (add the GitHub commit link)
+- Link: https://github.com/bisembaevaaigerim/css4007-ai-agents-final/commit/71455e7
 
-- Commit hash: (add after push)
+- Commit hash: 18434fc
 - Description: Add tests for the LLM client and project documentation
-- Link: (add the GitHub commit link)
+- Link: https://github.com/bisembaevaaigerim/css4007-ai-agents-final/commit/18434fc
 
 ## Current Functionality
 
